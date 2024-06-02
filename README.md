@@ -27,6 +27,11 @@ public class TechStack {
 - [Car Rental Service](https://github.com/kacper-kukula/car-rental) - Simplifying travel with our comprehensive car rental system, offering seamless bookings, secure payments, and instant notifications.
 - DataTube(in development) - Unleashing creativity by encoding data into binary and embedding it within a YouTube video, turning pixels into your personal storage canvas for a fun and unique experience!
 
+## 🌐 Languages
+
+- English: C1 (Advanced)
+- Polish: Native
+
 ## 📫 Drop me a message if you need anything!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kukulakacper/)
