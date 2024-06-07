@@ -1,14 +1,14 @@
 # Hi there! 👋 I'm Kacper
 
 
-I'm a Java Developer with a passion for crafting clean code and debugging with determination (and maybe a little bit of caffeine). When I'm not diving into the depths of code, you can catch me exploring the vast expanse of the internet or contemplating the meaning of semicolons. Let's team up and code our way to greatness!
+I'm a Java Developer with a passion for crafting clean code and debugging with determination (and maybe a little bit of caffeine 😉). When I'm not diving into the depths of code, you can catch me exploring the vast expanse of the internet or contemplating the meaning of semicolons. Feel free to reach out if you have any inquiries or just want to chat about coding, technology, or anything else under the sun!
 
 ## 🚀 About Me
 
 - 🎓 Bachelor's degree in Computing
 - 💼 Currently honing my skills through a Java Developer training program
-- 🌱 Always eager to learn and stay updated with the latest in technology (even if it means sacrificing sleep)
-- 🤝 Open to collaboration and excited about solving challenging problems (as long as there's coffee involved)
+- 🌱 Always eager to learn and stay updated with the latest in technology
+- 🤝 Open to collaboration and excited about solving challenging problems
 - 🌐 English (C1 - Advanced)
 - 🌐 Polish (native)
 
