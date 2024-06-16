@@ -26,9 +26,9 @@ public class TechStack {
 
 ## 🚀 Projects & Contributions
 
+- [YouTube as Hard Drive](https://github.com/kacper-kukula/yt-as-harddrive) - Unleashing creativity by encoding data into QR codes and embedding it within a YouTube video, turning pixels into your personal storage drive for a fun and unique experience.
 - [Book Store](https://github.com/kacper-kukula/book-store) - Your go-to online bookstore, complete with user management and catalog browsing.
 - [Car Rental Service](https://github.com/kacper-kukula/car-rental) - Simplifying travel with comprehensive car rental system, offering seamless bookings, secure payments, and instant notifications.
-- DataTube(in development) - Unleashing creativity by encoding data into binary and embedding it within a YouTube video, turning pixels into your personal storage canvas for a fun and unique experience.
 
 ## 📫 Drop me a message if you need anything!
 
