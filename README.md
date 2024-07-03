@@ -30,6 +30,8 @@ public class TechStack {
 - [Book Store](https://github.com/kacper-kukula/book-store) - Your go-to online bookstore, complete with user management and catalog browsing.
 - [Car Rental Service](https://github.com/kacper-kukula/car-rental) - Simplifying travel with comprehensive car rental system, offering seamless bookings, secure payments, and instant notifications.
 
+...and more!
+
 ## 📫 Drop me a message if you need anything!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kukulakacper/)
