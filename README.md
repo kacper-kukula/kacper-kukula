@@ -6,7 +6,7 @@ I'm a Java Developer with a passion for crafting clean code and debugging with d
 ## 🚀 About Me
 
 - 🎓 Bachelor's degree in Computing
-- 💼 Currently honing my skills through a Java Developer training program
+- 💼 Currently working as Java Developer
 - 🌱 Always eager to learn and stay updated with the latest in technology
 - 🤝 Open to collaboration and excited about solving challenging problems
 - 🌐 English (C1 - Advanced)
@@ -18,7 +18,7 @@ I'm a Java Developer with a passion for crafting clean code and debugging with d
 public class TechStack {
     private String[] languages = {"Java"};
     private String[] frameworks = {"Spring/Spring Boot", "Hibernate"};
-    private String[] databases = {"MySQL", "Liquibase"};
+    private String[] databases = {"MySQL", "MongoDB", Liquibase"};
     private String[] tools = {"Maven", "JUnit", "Mockito", "Git/GitHub", "Docker", "AWS", "IntelliJ IDEA"};
     private String[] apis = {"RESTful APIs"};
 }
