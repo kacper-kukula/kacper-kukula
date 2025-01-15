@@ -16,19 +16,21 @@ I'm a Java Developer with a passion for crafting clean code and debugging with d
 
 ```java
 public class TechStack {
-    private String[] languages = {"Java"};
+    private String[] languages = {"Java 17"};
     private String[] frameworks = {"Spring/Spring Boot", "Hibernate"};
     private String[] databases = {"MySQL", "MongoDB", "Liquibase"};
-    private String[] tools = {"Maven", "JUnit", "Mockito", "Git/GitHub", "Docker", "AWS", "IntelliJ IDEA"};
+    private String[] tools = {"Maven", "JUnit", "Mockito", "Git/GitHub", "Docker", "AWS"};
     private String[] apis = {"RESTful APIs"};
 }
 ```
 
 ## 🚀 Projects & Contributions
 
-- [YouTube as Hard Drive](https://github.com/kacper-kukula/yt-as-harddrive) - Unleashing creativity by encoding data into QR codes and embedding it within a YouTube video, turning pixels into your personal storage drive for a fun and unique experience.
+- [YouTube as Hard Drive](https://github.com/kacper-kukula/yt-as-harddrive) - Encoding data into QR codes and embedding it within a YouTube video, turning pixels into your personal storage drive for a fun and unique experience.
+- [FDA Medical Records](https://github.com/kacper-kukula/medrecords-api) - Using official FDA API the service provides fetching and saving up-to-date official medical reports.
+- [Library Management](https://github.com/kacper-kukula/library-app) - Online library app utilizing MongoDB and complete book management.
 - [Book Store](https://github.com/kacper-kukula/book-store) - Your go-to online bookstore, complete with user management and catalog browsing.
-- [Car Rental Service](https://github.com/kacper-kukula/car-rental) - Simplifying travel with comprehensive car rental system, offering seamless bookings, secure payments, and instant notifications.
+- [Car Rental Service](https://github.com/kacper-kukula/car-rental) - Simplifying travel with comprehensive car rental system, offering seamless bookings, Stripe secure payments, and instant Telegram notifications.
 
 ...and more!
 
