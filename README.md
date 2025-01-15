@@ -18,9 +18,9 @@ I'm a Java Developer with a passion for crafting clean code and debugging with d
 public class TechStack {
     private String[] languages = {"Java 17"};
     private String[] frameworks = {"Spring/Spring Boot", "Hibernate"};
-    private String[] databases = {"MySQL", "MongoDB", "Liquibase"};
-    private String[] tools = {"Maven", "JUnit", "Mockito", "Git/GitHub", "Docker", "AWS"};
-    private String[] apis = {"RESTful APIs"};
+    private String[] databases = {"MySQL", "MongoDB"};
+    private String[] tools = {"Maven", "JUnit", "Mockito", "Git/GitHub", "Docker", "AWS", "Liquibase"};
+    private String[] apis = {"REST"};
 }
 ```
 
