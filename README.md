@@ -1,18 +1,16 @@
 # Hi there! 👋 I'm Kacper
 
+I'm a Java Developer with a passion for crafting clean code and debugging with determination (and maybe a little bit of caffeine ☕). When I'm not diving into code, you can find me exploring the vast expanse of the internet or contemplating the meaning of semicolons. 
 
-I'm a Java Developer with a passion for crafting clean code and debugging with determination (and maybe a little bit of caffeine 😉). When I'm not diving into the depths of code, you can catch me exploring the vast expanse of the internet or contemplating the meaning of semicolons. I also created my website, where you can find my CV, a portfolio showcasing my apps, and a small blog for weekly posts. Feel free to reach out if you have any inquiries or just want to chat about coding, technology, or anything else under the sun!
+Feel free to check out my portfolio and blog on 🌐 [kukuladev.com](https://www.kukuladev.com).
 
-🌐[kukuladev.com](www.kukuladev.com)
 
 ## 🚀 About Me
+- 🎓 **Bachelor's degree in Computing**
+- 💼 **Currently working as Java Developer**
+- 🌱 **Always eager to learn** and stay updated with the latest technology
+- 🌍 Languages: **English (C1 - Advanced), Polish (Native)**
 
-- 🎓 Bachelor's degree in Computing
-- 💼 Currently working as Java Developer
-- 🌱 Always eager to learn and stay updated with the latest in technology
-- 🤝 Open to collaboration and excited about solving challenging problems
-- 🌍 English (C1 - Advanced)
-- 🌍 Polish (native)
 
 ## 💻 Tech Stack
 
@@ -28,13 +26,14 @@ public class TechStack {
 
 ## 🚀 Projects & Contributions
 
-- [YouTube as Hard Drive](https://github.com/kacper-kukula/yt-as-harddrive) - Encoding data into QR codes and embedding it within a YouTube video, turning pixels into your personal storage drive for a fun and unique experience.
-- [FDA Medical Records](https://github.com/kacper-kukula/medrecords-api) - Using official FDA API the service provides fetching and saving up-to-date official medical reports.
-- [Library Management](https://github.com/kacper-kukula/library-app) - Online library app utilizing MongoDB and complete book management.
-- [Book Store](https://github.com/kacper-kukula/book-store) - Your go-to online bookstore, complete with user management and catalog browsing.
-- [Car Rental Service](https://github.com/kacper-kukula/car-rental) - Simplifying travel with comprehensive car rental system, offering seamless bookings, Stripe secure payments, and instant Telegram notifications.
+| Project                                | Description                                                                                      |
+|----------------------------------------|--------------------------------------------------------------------------------------------------|
+| [YouTube as Hard Drive](https://github.com/kacper-kukula/yt-as-harddrive)             | Encoding data into QR codes and embedding it within YouTube videos.                              |
+| [FDA Medical Records](https://github.com/kacper-kukula/medrecords-api)               | Fetch and save official FDA reports using Open FDA API.                                          |
+| [Library Management](https://github.com/kacper-kukula/library-app)                | MongoDB-powered library app for online book management.                                          |
 
 ...and more!
+
 
 ## 📫 Drop me a message if you need anything!
 
