@@ -1,7 +1,9 @@
 # Hi there! 👋 I'm Kacper
 
 
-I'm a Java Developer with a passion for crafting clean code and debugging with determination (and maybe a little bit of caffeine 😉). When I'm not diving into the depths of code, you can catch me exploring the vast expanse of the internet or contemplating the meaning of semicolons. Feel free to reach out if you have any inquiries or just want to chat about coding, technology, or anything else under the sun!
+I'm a Java Developer with a passion for crafting clean code and debugging with determination (and maybe a little bit of caffeine 😉). When I'm not diving into the depths of code, you can catch me exploring the vast expanse of the internet or contemplating the meaning of semicolons. I also created my website, where you can find my CV, a portfolio showcasing my apps, and a small blog for weekly posts. Feel free to reach out if you have any inquiries or just want to chat about coding, technology, or anything else under the sun!
+
+🌐[kukuladev.com](www.kukuladev.com)
 
 ## 🚀 About Me
 
@@ -9,8 +11,8 @@ I'm a Java Developer with a passion for crafting clean code and debugging with d
 - 💼 Currently working as Java Developer
 - 🌱 Always eager to learn and stay updated with the latest in technology
 - 🤝 Open to collaboration and excited about solving challenging problems
-- 🌐 English (C1 - Advanced)
-- 🌐 Polish (native)
+- 🌍 English (C1 - Advanced)
+- 🌍 Polish (native)
 
 ## 💻 Tech Stack
 
@@ -37,4 +39,4 @@ public class TechStack {
 ## 📫 Drop me a message if you need anything!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kukulakacper/)
-- 📧 kacperkukula97@gmail.com
+- 📧 kacper.kukula@kukuladev.com
